@@ -60,11 +60,11 @@ a:active {
   margin: auto;
 }
 
-/* Hide the images by default
+/* Hide the images by default */
 .mySlides {
     display: none;
 }
-*/
+
 /* Next & previous buttons */
 .prev, .next {
   cursor: pointer;
@@ -113,7 +113,7 @@ a:active {
 
 /* The dots/bullets/indicators */
 .dot {
-  cursor:pointer;
+  cursor: pointer;
   height: 15px;
   width: 15px;
   margin: 0 2px;
