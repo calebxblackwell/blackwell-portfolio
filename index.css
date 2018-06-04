@@ -1,5 +1,8 @@
 /*background area*/
-
+/*header image*/
+img {
+  border-radius: 50%;
+}
 /*Font stuff*/
 h1 {
   font-family: 'Creepster', cursive;
@@ -146,7 +149,7 @@ h1 {
 }
 /*Footer and social links*/
 .footer{
-    position: fixed;
+    position: bottom;
     left: 0;
     bottom: 0;
     width: 100%;
