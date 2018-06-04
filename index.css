@@ -1,9 +1,9 @@
 /*background area*/
 /*header image*/
 .selfie {
-    vertical-align: middle;
-    width: 50px;
-    height: 50px;
+    vertical-align: center;
+    width: 70px;
+    height: 70px;
     border-radius: 50%;
 }
 /*Font stuff*/
