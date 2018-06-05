@@ -93,7 +93,7 @@ body {
 .main {
     max-width: 1000px;
     margin: auto;
-    box-sizing:border-box;
+    
 }
 
 h1 {
@@ -103,14 +103,14 @@ h1 {
 
 .row,  {
     margin: 8px -16px;
-    box-sizing:border-box;
+
 }
 
 /* Add padding BETWEEN each column (if you want) */
 .row,
 .row > .column {
     padding: 10px;
-    
+
 }
 
 /* Create four equal columns that floats next to each other */
