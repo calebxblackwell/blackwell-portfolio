@@ -93,6 +93,7 @@ body {
 .main {
     max-width: 1000px;
     margin: auto;
+    box-sizing:border-box;
 }
 
 h1 {
@@ -100,20 +101,23 @@ h1 {
     word-break: break-all;
 }
 
-.row {
+.row, * {
     margin: 8px -16px;
+    box-sizing:border-box;
 }
 
 /* Add padding BETWEEN each column (if you want) */
 .row,
 .row > .column {
     padding: 10px;
+    box-sizing:border-box;
 }
 
 /* Create four equal columns that floats next to each other */
-.column {
+.column, * {
     float: left;
     width: 25%;
+    box-sizing:border-box;
 }
 
 /* Clear floats after rows */
@@ -127,6 +131,7 @@ h1 {
 .content {
     background-color: white;
     padding: 10px;
+    box-sizing:border-box;
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
