@@ -117,7 +117,7 @@ h1 {
 .column,  {
     float: left;
     width: 25%;
-    
+
 }
 
 /* Clear floats after rows */
@@ -131,7 +131,7 @@ h1 {
 .content {
     background-color: white;
     padding: 10px;
-    box-sizing:border-box;
+    
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
