@@ -101,7 +101,7 @@ h1 {
     word-break: break-all;
 }
 
-.row, * {
+.row,  {
     margin: 8px -16px;
     box-sizing:border-box;
 }
@@ -114,7 +114,7 @@ h1 {
 }
 
 /* Create four equal columns that floats next to each other */
-.column, * {
+.column,  {
     float: left;
     width: 25%;
     box-sizing:border-box;
